@@ -9,7 +9,7 @@ Install-Package abcdefghijklmnopqrstuvwxyz
 
 ```cs
 using System;
-using abcdefghijklmnopqrstuvwxyz;
+using Abcdefghijklmnopqrstuvwxyz;
 
 public static class Program
 {

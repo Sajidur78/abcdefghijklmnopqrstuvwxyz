@@ -8,6 +8,9 @@
     <Description>abcdefghijklmnopqrstuvwxyz is a library providing all alphabets in the modern english language.</Description>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
     <RootNamespace>Abcdefghijklmnopqrstuvwxyz</RootNamespace>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <FileVersion>1.1.0.0</FileVersion>
+    <Version>1.1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
