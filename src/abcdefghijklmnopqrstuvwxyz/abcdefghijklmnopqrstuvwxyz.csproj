@@ -5,7 +5,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Sajid</Authors>
     <Company>NeverFinishAnything</Company>
-    <Description>abcdefghijklmnopqrstuvwxyz is library providing all alphabets in the modern english language.</Description>
+    <Description>abcdefghijklmnopqrstuvwxyz is a library providing all alphabets in the modern english language.</Description>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
   </PropertyGroup>
 
