@@ -1,7 +1,7 @@
 using NUnit.Framework;
-using abcdefghijklmnopqrstuvwxyz;
+using Abcdefghijklmnopqrstuvwxyz;
 
-namespace abcdefghijklmnopqrstuvwxyz.Tests
+namespace Abcdefghijklmnopqrstuvwxyz.Tests
 {
     public class AlphabetTests
     {

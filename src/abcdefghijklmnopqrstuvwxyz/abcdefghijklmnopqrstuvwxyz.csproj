@@ -7,6 +7,7 @@
     <Company>NeverFinishAnything</Company>
     <Description>abcdefghijklmnopqrstuvwxyz is a library providing all alphabets in the modern english language.</Description>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <RootNamespace>Abcdefghijklmnopqrstuvwxyz</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

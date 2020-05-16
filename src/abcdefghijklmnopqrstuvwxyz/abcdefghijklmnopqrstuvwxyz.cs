@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace abcdefghijklmnopqrstuvwxyz
+namespace Abcdefghijklmnopqrstuvwxyz
 {
     /// <summary>
     /// Class containing the only function this library provides
