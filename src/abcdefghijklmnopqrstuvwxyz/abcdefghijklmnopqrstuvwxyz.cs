@@ -10,9 +10,9 @@ namespace Abcdefghijklmnopqrstuvwxyz
     public class AlphabetProvider
     {
         /// <summary>
-        /// Returns a string of characters with all letters from the modern english alphabet
+        /// Returns a string of characters with all letters from the modern english alphabet.
         /// </summary>
-        /// <returns></returns>
+        /// <returns>A lowercase representation of the english alphabet.</returns>
         public static string GetAlphabet()
             => "abcdefghijklmnopqrstuvwxyz";
     }
